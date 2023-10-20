@@ -1,13 +1,16 @@
-.web-title {font-size: 30px;
+.web-title {font-size: 70px;
+    color: blue;
     text-align: center;
     font-weight: 100;
 }
 .just-text{
+    font-size: 20px;
     color: green;
-    padding: 100px;
     text-align: center;
-    background-color: wheat;
 }
 .container{
+    margin-left: 20%;
     border: 2px yellow solid;
+    width: 60%;
+    background-color: wheat;
 }
